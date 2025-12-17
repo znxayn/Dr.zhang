@@ -1,4 +1,4 @@
----
+
 title: 张晓阳 | 神经外科医生
 layout: default
 ---
@@ -76,3 +76,18 @@ layout: default
 
 ---
 
+© 2024 张晓阳. 版权所有.
+
+
+---
+
+## 个人技能
+
+- **编程语言**：精通Python、Java和JavaScript，熟悉C++。
+- **框架与工具**：熟练使用Django、Spring Boot和React.js，了解Vue.js和Angular。
+- **数据库管理**：擅长MySQL、PostgreSQL和MongoDB的管理和优化。
+- **版本控制**：熟悉Git和SVN的使用，掌握分支管理、合并冲突解决技巧。
+- **云服务**：精通AWS、Azure和Google Cloud Platform，能够设计和部署云原生应用。
+- **容器化技术**：熟练使用Docker和Kubernetes进行应用的容器化和集群管理。
+- **自动化测试**：熟悉Jenkins、GitLab CI/CD和Postman进行自动化测试和持续集成。
+- **DevOps**：掌握CI/CD流水线设计，熟悉Jira和Confluence进行项目管理和文档编写。

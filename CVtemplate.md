@@ -1,69 +1,69 @@
 ---
 layout: default
-title: Your Name | Resume
+title: Zhang Xiaoyang | Resume
 ---
 
-# Your Name
-**Target Title**  
-City, Country · Open to Canada Relocation  
-📧 email@example.com · 🔗 LinkedIn · 💻 GitHub
+# ZHANG XIAOYANG
+**Clinical Support Engineer | Application Specialist**  
+Shijiazhuang, China · Open to Canada Relocation  
+📧 znxayn@gmail.com
 
 ---
 
 ## Professional Summary
-X years of experience in **[your core field]**, with hands-on experience in **[key domain / technology]**.  
-Strong background in **[clinical / technical / analytical skills]**, seeking a **[target role]** position in a global medical device company.
+Neurosurgeon with 10+ years of clinical experience in patient management, surgical procedures, and medical device coordination.  
+Hands-on expertise in cranial hemorrhage and tumor surgeries, endoscopic procedures, cerebrovascular interventions, and hydrocephalus treatments, performing approximately 200 surgeries annually.  
+Seeking a Clinical Support Engineer or Application Specialist role in multinational medical device companies, leveraging clinical and technical expertise and strong interest in international collaboration.
 
 ---
 
 ## Core Skills
 **Technical Skills:**  
-- Skill 1, Skill 2, Skill 3
+Surgical Navigation, Neurovascular Intervention Devices, Endoscopic Systems, Equipment Setup & Troubleshooting
 
 **Domain Knowledge:**  
-- Medical devices, clinical workflow, regulatory awareness
+Neuro-oncology, Cerebrovascular Diseases, Brain Tumors, Neurocritical Care
 
 **Tools & Systems:**  
-- Excel, SPSS, Python (basic), Jira
+Microsoft Office, Python, 3D Slicer, SketchUp, Bash
 
 **Languages:**  
-- English (IELTS 6.x)  
-- Mandarin (Native)
+English (improving), Mandarin (native)
 
 ---
 
 ## Work Experience
 
-### Job Title — Company Name  
-*City, Country | MM/YYYY – MM/YYYY*
+### Attending Neurosurgeon — Hebei Provincial People’s Hospital
+*Shijiazhuang, China | 2014 – 2026*
 
-- Action verb + what you did + **measurable result**
-- Focus on troubleshooting, validation, clinical support, or cross-team collaboration
-- Avoid job duties; highlight **impact and outcomes**
-
-### Job Title — Company Name  
-*City, Country | MM/YYYY – MM/YYYY*
-
-- 1–2 most relevant bullets only
-- Delete anything unrelated to overseas / medical roles
+- Managed ~150 neurosurgical patients annually and participated in ~200 surgeries per year, including neurointerventional procedures.  
+- Supervised and trained ~10 interns annually, including 1–2 international students, fostering cross-cultural collaboration.  
+- Completed a 6-month advanced neurosurgery rotation at Beijing Tiantan Hospital in 2024, enhancing surgical techniques and clinical protocols.  
+- Coordinated with medical device manufacturers on intraoperative equipment and technical issues, bridging clinical and technical expertise.
 
 ---
 
 ## Education
-**Degree, Major**  
-University Name, Country | YYYY
+
+**Master of Medicine, Neurosurgery**  
+Hebei Medical University, China | 2014
+
+**Bachelor of Medicine, Clinical Medicine**  
+Hebei United University, China | 2011
 
 ---
 
 ## Certifications & Training
-- IELTS (Overall X.X)
-- Relevant medical / quality / technical certifications
-- Internal training (if from multinational company)
+
+- Physician Qualification Certificate, China
+- Radiologist Certificate, China
+- Attending Physician Certificate, China
+- Standardized Training Certificate, China
+- Microscopic Anatomy Training Completion Certificate
 
 ---
 
-## Projects / Research (Optional)
-**Project / Meta-analysis Title**  
-- Briefly describe problem, method, and outcome
-- Highlight data analysis, English writing, or research logic
-
+## Projects / Research 
+**Case Report on Cranioplasty**, Journal of neurological surgery. Part A, 2019
+Massive Brain Swelling after Cranioplasty: A Case Report.

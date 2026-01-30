@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zhang Xiaoyang | Resume
+title: Zhang Xiaoyang CV 
 ---
 
 # ZHANG XIAOYANG

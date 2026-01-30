@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Zhang Xiaoyang | Resume
+title: Zhang Xiaoyang CV 
+css: assets/css/custom.css
 ---
 
 # ZHANG XIAOYANG

@@ -3,21 +3,21 @@
 
 /* 页面宽度控制 */
 body {
-    max-width: 900px;      /* 页面最大宽度，适合打印/PDF */
-    margin: 0 auto;         /* 居中 */
+    max-width: 900px !important;      /* 页面最大宽度，适合打印/PDF */
+    margin: 0 auto !important;         /* 居中 */
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: 1.5;       /* 行距 */
-    font-size: 16px;        /* 正文字体大小 */
+    line-height: 1.5 !important;       /* 行距 */
+    font-size: 16px !important;        /* 正文字体大小 */
     color: #111;
 }
 
 /* 标题样式 */
 h1 {
-    font-size: 32px;
+    font-size: 32px !important;
     margin-bottom: 0.3em;
 }
 h2 {
-    font-size: 24px;
+    font-size: 24px !important;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
     border-bottom: 1px solid #ccc;

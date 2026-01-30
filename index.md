@@ -1,93 +1,69 @@
-
-title: 张晓阳 | 神经外科医生
+---
 layout: default
+title: Your Name | Resume
 ---
 
-# 👨‍⚕️ 张晓阳 | 神经外科医生
-> 专注于颅脑肿瘤、神经功能重建与微创神经外科的临床与研究工作。
-
----
-
-## 🧠 关于我（About Me）
-- 拥有 10 年神经外科临床经验  
-- 现任某大学附属医院神经外科主治医师  
-- 专注于术中脑功能保护、神经导航  
-- 致力于探索人工智能在神经影像分析与术前计划中的临床应用  
-
-📍 现居地：石家庄  
-📧 Email: [zhangning@example.com](mailto:zhangning@example.com)  
-🔗 ResearchGate: [https://www.researchgate.net/](https://www.researchgate.net/)  
+# Your Name
+**Target Title**  
+City, Country · Open to Canada Relocation  
+📧 email@example.com · 🔗 LinkedIn · 💻 GitHub
 
 ---
 
-## 🩺 临床专长（Clinical Expertise）
-| 领域 | 说明 |
-|------|------|
-| 颅脑肿瘤切除 | 专注于术中导航及脑功能区保护 |
-| 微创神经外科 | 包括内镜辅助手术与穿刺减压 |
-| 脑血管疾病 | 包括动脉瘤夹闭与脑血管搭桥术 |
-| 术中神经监测 | 电生理技术保障术中安全 |
-| 多学科诊疗（MDT） | 联合放疗科、影像科开展精准诊疗 |
+## Professional Summary
+X years of experience in **[your core field]**, with hands-on experience in **[key domain / technology]**.  
+Strong background in **[clinical / technical / analytical skills]**, seeking a **[target role]** position in a global medical device company.
 
 ---
 
-## 🧬 科研与发表（Research & Publications）
-> 部分代表性论文（按时间倒序）
+## Core Skills
+**Technical Skills:**  
+- Skill 1, Skill 2, Skill 3
 
-1. **Zhang N**, et al. *Intraoperative brain mapping in glioma surgery: current advances and future directions.* **Neurosurgery**, 2024.  
-2. **Zhang N**, et al. *Application of AI-assisted MRI segmentation in glioma resection planning.* **Frontiers in Oncology**, 2023.  
-3. **Zhang N**, et al. *Cortical reorganization following tumor resection near motor area: a DTI study.* **Journal of Neuroscience Research**, 2022.  
+**Domain Knowledge:**  
+- Medical devices, clinical workflow, regulatory awareness
 
-🧾 [Google Scholar Profile](https://scholar.google.com/)  
+**Tools & Systems:**  
+- Excel, SPSS, Python (basic), Jira
 
----
-
-## 🧑‍🏫 教学与带教（Teaching & Mentorship）
-- 医学院临床教学讲师（2018–至今）  
-- 负责住院医师规范化培训课程：神经外科基础与术中安全  
-- 指导硕士研究生 2 名、本科生 5 名  
-- 讲授课程：《神经外科学导论》《显微神经外科操作基础》
+**Languages:**  
+- English (IELTS 6.x)  
+- Mandarin (Native)
 
 ---
 
-## 🏆 荣誉与任职（Honors & Memberships）
-- 2023年 医院“优秀带教教师奖”  
-- 中华医学会神经外科学分会青年委员  
-- 中国医师协会会员  
-- 世界神经外科联合会（WFNS）注册会员  
+## Work Experience
+
+### Job Title — Company Name  
+*City, Country | MM/YYYY – MM/YYYY*
+
+- Action verb + what you did + **measurable result**
+- Focus on troubleshooting, validation, clinical support, or cross-team collaboration
+- Avoid job duties; highlight **impact and outcomes**
+
+### Job Title — Company Name  
+*City, Country | MM/YYYY – MM/YYYY*
+
+- 1–2 most relevant bullets only
+- Delete anything unrelated to overseas / medical roles
 
 ---
 
-## 🔬 研究方向与未来展望（Research Interests）
-- 脑功能区保护与重建机制  
-- 胶质瘤精准分型与术后康复  
-- AI与术前影像融合分析  
-- 神经导航与术中电生理技术优化  
-
-> “外科医生的双手，不仅是手术工具，更是病人希望的延伸。”
+## Education
+**Degree, Major**  
+University Name, Country | YYYY
 
 ---
 
-## 📞 联系方式（Contact）
-📧 Email: [zhangning@example.com](mailto:zhangning@example.com)  
-📍 工作单位：某大学附属医院神经外科  
-🔗 ORCID: [https://orcid.org/](https://orcid.org/)  
-📷 微信二维码（可插入图片）
+## Certifications & Training
+- IELTS (Overall X.X)
+- Relevant medical / quality / technical certifications
+- Internal training (if from multinational company)
 
 ---
 
-© 2024 张晓阳. 版权所有.
+## Projects / Research (Optional)
+**Project / Meta-analysis Title**  
+- Briefly describe problem, method, and outcome
+- Highlight data analysis, English writing, or research logic
 
-
----
-
-## 个人技能
-
-- **编程语言**：精通Python、Java和JavaScript，熟悉C++。
-- **框架与工具**：熟练使用Django、Spring Boot和React.js，了解Vue.js和Angular。
-- **数据库管理**：擅长MySQL、PostgreSQL和MongoDB的管理和优化。
-- **版本控制**：熟悉Git和SVN的使用，掌握分支管理、合并冲突解决技巧。
-- **云服务**：精通AWS、Azure和Google Cloud Platform，能够设计和部署云原生应用。
-- **容器化技术**：熟练使用Docker和Kubernetes进行应用的容器化和集群管理。
-- **自动化测试**：熟悉Jenkins、GitLab CI/CD和Postman进行自动化测试和持续集成。
-- **DevOps**：掌握CI/CD流水线设计，熟悉Jira和Confluence进行项目管理和文档编写。

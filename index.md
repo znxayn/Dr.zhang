@@ -5,6 +5,7 @@ css: assets/css/custom.css
 ---
 
 # ZHANG XIAOYANG
+<img src="assets/img/profile.png" width="140" />
 **Clinical Support Engineer | Application Specialist**  
 Shijiazhuang, China · Open to Canada Relocation  
 📧 znxayn@gmail.com

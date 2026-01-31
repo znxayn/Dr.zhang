@@ -1,0 +1,67 @@
+
+/* 自定义简历样式 for Cayman theme */
+
+/* 页面宽度控制 */
+body {
+    max-width: 900px !important;      /* 页面最大宽度，适合打印/PDF */
+    margin: 0 auto !important;         /* 居中 */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5 !important;       /* 行距 */
+    font-size: 16px !important;        /* 正文字体大小 */
+    color: #111;
+}
+
+/* 标题样式 */
+h1 {
+    font-size: 32px !important;
+    margin-bottom: 0.3em;
+}
+h2 {
+    font-size: 24px !important;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.2em;
+}
+h3 {
+    font-size: 20px;
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+}
+
+/* 段落与列表 */
+p, li {
+    margin-bottom: 0.5em;
+}
+
+/* 调整列表缩进和间距 */
+ul {
+    margin-left: 1.2em;
+}
+
+/* 强调邮箱和联系方式 */
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+/* 可选：核心技能、证书块突出 */
+.skills, .certifications {
+    background-color: #f7f7f7;
+    padding: 0.5em;
+    border-radius: 4px;
+    margin-bottom: 1em;
+}
+
+/* 打印优化 */
+@media print {
+    body {
+        max-width: 700px;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+    h1, h2, h3 {
+        color: #000;
+        page-break-after: avoid;
+    }
+}

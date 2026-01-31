@@ -1,8 +1,14 @@
+---
+layout: default
+title: Zhang Xiaoyang CV 
+css: assets/css/custom.css
+---
 
 # 张晓阳 
 **临床支持工程师 | 神经外科主治医师**  
-中国·石家庄
-[En](./)|📧[znxayn@gmail.com](mailto:znxayn@gmail.com)
+中国·石家庄 · Open to Relocation    
+[En](./)|📧[znxayn@gmail.com](mailto:znxayn@gmail.com)|[Github](https://github.com/znxayn/Dr.zhang)|[LinkedIn]()|[PDF](assets/pdf/Zhang_Xiaoyang_CV_zh.pdf)
+
 
 ---
 

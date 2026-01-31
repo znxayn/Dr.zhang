@@ -4,10 +4,10 @@ title: Zhang Xiaoyang CV
 css: assets/css/custom.css
 ---
 
-# 张晓阳 [En](./)
+# 张晓阳 
 **临床支持工程师 | 应用专家**  
 中国·石家庄 · 开放加拿大 relocate  
-📧 znxayn@gmail.com
+[En](./)|📧[znxayn@gmail.com](mailto:znxayn@gmail.com)
 
 ---
 

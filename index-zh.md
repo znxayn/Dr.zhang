@@ -1,7 +1,7 @@
 
 # 张晓阳 
-**临床支持工程师 | 应用专家**  
-中国·石家庄 · 开放加拿大 relocate  
+**临床支持工程师 | 神经外科主治医师**  
+中国·石家庄
 [En](./)|📧[znxayn@gmail.com](mailto:znxayn@gmail.com)
 
 ---

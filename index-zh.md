@@ -1,8 +1,3 @@
----
-layout: default
-title: Zhang Xiaoyang CV 
-css: assets/css/custom.css
----
 
 # 张晓阳 
 **临床支持工程师 | 应用专家**  

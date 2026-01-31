@@ -7,7 +7,7 @@ css: assets/css/custom.css
 # ZHANG XIAOYANG 
 **Clinical Support Engineer | Application Specialist**  
 Shijiazhuang, China · Open to Canada Relocation  
-[中](index-zh)|📧[znxayn@gmail.com](mailto:znxayn@gmail.com)
+[中](index-zh)|📧[znxayn@gmail.com](mailto:znxayn@gmail.com)|[Github]()|[LinkedIn]()|[PDF](assets/pdf/Zhang_Xiaoyang_CV_EN.pdf)
 
 ---
 

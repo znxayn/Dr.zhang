@@ -5,7 +5,7 @@ css: assets/css/custom.css
 ---
 
 # ZHANG XIAOYANG
-<img src="assets/img/profile.png" width="140" />
+
 **Clinical Support Engineer | Application Specialist**  
 Shijiazhuang, China · Open to Canada Relocation  
 📧 znxayn@gmail.com
@@ -35,7 +35,6 @@ English (improving), Mandarin (native)
 ---
 
 ## Work Experience
-
 ### Attending Neurosurgeon — Hebei Provincial People’s Hospital
 *Shijiazhuang, China | 2014 – 2026*
 
@@ -47,7 +46,6 @@ English (improving), Mandarin (native)
 ---
 
 ## Education
-
 **Master of Medicine, Neurosurgery**  
 Hebei Medical University, China | 2014
 
@@ -57,7 +55,6 @@ Hebei United University, China | 2011
 ---
 
 ## Certifications & Training
-
 - Physician Qualification Certificate, China
 - Radiologist Certificate, China
 - Attending Physician Certificate, China
@@ -68,5 +65,4 @@ Hebei United University, China | 2011
 
 ## Projects / Research 
 **Case Report on Cranioplasty**, Journal of neurological surgery. Part A, 2019
-
 Massive Brain Swelling after Cranioplasty: A Case Report.
